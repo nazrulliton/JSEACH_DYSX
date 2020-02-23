@@ -36,8 +36,9 @@ code {
 
 #mutiple-name-label {
   color:black;
-  font-weight: bold;
+  font-weight: bolder;
   padding-left:45px;
+  font-family: Montserrat;
 }
 
 .MuiInputBase-root {
@@ -45,8 +46,9 @@ code {
   padding: 6px 6px 9px;
 }
 #MenuItem {
-  font-weight: bold;
+  font-weight:bolder;
   font-family: Montserrat;
+  
 
 }
 
