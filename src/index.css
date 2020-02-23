@@ -1,13 +1,51 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Montserrat' ;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Montserrat', ;
 }
+
+.MuiButtonBase-root.MuiListItem-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiListItem-gutters.MuiListItem-button:hover {
+  background-color: #459cd4;
+  color: #ffffff;
+
+}
+
+.MuiButtonBase-root.MuiListItem-root.MuiMenuItem-root.Mui-selected.MuiMenuItem-gutters.MuiListItem-gutters.MuiListItem-button.Mui-selected{
+  background-color: #459cd4;
+  color: #ffffff;
+}
+
+#formControl1{
+  position: absolute;
+  left: 10%;
+  top: 10%;
+  border: 1px solid lightgrey;
+}
+
+.MuiButtonBase-root.MuiListItem-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiListItem-gutters.MuiListItem-button{
+  padding-left: 30%;
+
+}
+
+
+#mutiple-name-label {
+  color:black;
+  font-weight: bold;
+  padding-left:45px;
+}
+
+.MuiInputBase-root {
+  margin: inherit;
+  padding: 6px 6px 9px;
+}
+#MenuItem {
+  font-weight: bold;
+}
+
+/* MuiList-root MuiMenu-list MuiList-padding */

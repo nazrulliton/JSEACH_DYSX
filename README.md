@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Coding Exercise
+
+In this file you will find attempt to complete a coding exercise.
+I was tasked to created a  component which hosts drop down label with multi select capabilities.
+The MVP includes the following:
+Highlight when value set
+Show subtitle when value set
+Single or multi select values.
+
 ## Available Scripts
 
 In the project directory, you can run:
