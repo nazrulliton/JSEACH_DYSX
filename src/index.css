@@ -1,14 +1,11 @@
 body {
   margin: 0;
-  font-family: 'Montserrat' ;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
 }
 
-code {
-  font-family: 'Montserrat', ;
-}
+
 
 .MuiButtonBase-root.MuiListItem-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiListItem-gutters.MuiListItem-button:hover {
   background-color: #459cd4;
@@ -30,13 +27,15 @@ code {
 
 .MuiButtonBase-root.MuiListItem-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiListItem-gutters.MuiListItem-button{
   padding-left: 30%;
+  padding-top: 9px;
+  padding-bottom: 9px;
 
 }
 
 
 #mutiple-name-label {
   color:black;
-  font-weight: bolder;
+  font-weight:1000;
   padding-left:45px;
   font-family: Montserrat;
 }
@@ -46,9 +45,9 @@ code {
   padding: 6px 6px 9px;
 }
 #MenuItem {
-  font-weight:bolder;
+  font-weight:1000;
   font-family: Montserrat;
-  
+
 
 }
 
