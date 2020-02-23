@@ -34,7 +34,7 @@ const useStyles = makeStyles(theme => ({
 }));
 
 //sets the height of drop down list, descrease to toggle scroll
-const ITEM_HEIGHT = 68;
+const ITEM_HEIGHT = 88;
 
 //sets the padding-top of drop down list
 const ITEM_PADDING_TOP = 18;
