@@ -5,8 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In this file you will find my attempt to complete a coding exercise.
 I was tasked to created a  component which hosts drop down label with multi select capabilities.
 The MVP includes the following:
-Highlight when value set
-Show subtitle when value set
+Highlight when value set, 
+Show subtitle when value set, 
 Single or multi select values.
 
 ## Built With
