@@ -12,4 +12,4 @@ class DisplayContainer extends Component {
   }
 }
 
-export default CommentBox;
+export default DisplayContainer;
