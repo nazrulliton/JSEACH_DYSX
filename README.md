@@ -9,6 +9,12 @@ Highlight when value set
 Show subtitle when value set
 Single or multi select values.
 
+## Built With
+
+* [Material UI](https://material-ui.com/) - The web framework used
+* [Google Fonts](https://fonts.google.com/) - Imported text font
+
+
 ### Installing / Running
 
 A step by step series of examples that tell you how to get a development env running
@@ -55,8 +61,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### Advanced Configuration
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-## Built With
-
-* [Material UI](https://material-ui.com/) - The web framework used
-* [Google Fonts](https://fonts.google.com/) - Imported text font
