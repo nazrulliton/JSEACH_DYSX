@@ -9,9 +9,9 @@ Highlight when value set
 Show subtitle when value set
 Single or multi select values.
 
-## Available Scripts
+### Installing / Running
 
-In the project directory, you can run:
+A step by step series of examples that tell you how to get a development env running
 
 ### `npm start`
 
