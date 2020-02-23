@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import DisplayComponent from './components/DisplayComponent';
+import DisplayContainer from './components/DisplayContainer';
 
 
 
@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
 
-  <DisplayComponent />
+  <DisplayContainer />
 
     );
   }
