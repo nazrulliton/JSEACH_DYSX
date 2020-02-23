@@ -78,6 +78,7 @@ export default function MultipleSelect() {
   //handles and displays single selects
   const handleChange = event => {
     setSelectedOption(event.target.value);
+
   };
 
   //handles and displays multiple selects
