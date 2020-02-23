@@ -46,6 +46,8 @@ code {
 }
 #MenuItem {
   font-weight: bold;
+  font-family: Montserrat;
+
 }
 
 /* MuiList-root MuiMenu-list MuiList-padding */
