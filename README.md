@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Coding Exercise
 
-In this file you will find attempt to complete a coding exercise.
+In this file you will find my attempt to complete a coding exercise.
 I was tasked to created a  component which hosts drop down label with multi select capabilities.
 The MVP includes the following:
 Highlight when value set
